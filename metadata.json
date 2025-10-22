@@ -1,0 +1,5 @@
+{
+  "name": "Video-Audio Merge Settings",
+  "description": "A web application to configure video and audio merging options with a dynamic and visually appealing form. Users can select a merge mode and provide conditional inputs for duration.",
+  "requestFramePermissions": []
+}
